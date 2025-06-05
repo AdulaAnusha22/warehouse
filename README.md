@@ -100,11 +100,8 @@ Performance may vary based on hardware — use GPU if available for faster infer
 🏁 License
 This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
 
----
+
 
 
 
